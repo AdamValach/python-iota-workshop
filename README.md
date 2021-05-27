@@ -1,4 +1,4 @@
-# Python IOTA 1.0 Workshop
+# Python IOTA Workshop
 
 Some simple examples to get you started on developing with IOTA using Python.
 
